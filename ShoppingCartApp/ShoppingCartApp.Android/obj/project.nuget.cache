@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o6wdgmse9cf+RYqSzJgTZNIiVmRdgSRnUMKSMHGGn6Spdu4UFOUqossu4a72ZXv4BdDaqKSnvW3ouXX1ZrNLbQ==",
+  "dgSpecHash": "eaGtRt7oU3lYEIQjLyLun6Q84pObxysTupaYbFXX5tti2rfmqm60u8J6tNoPGU7bDkaBwUD6TidjOnSDbdAt8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
@@ -105,8 +105,8 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512"
   ],
   "logs": []
 }

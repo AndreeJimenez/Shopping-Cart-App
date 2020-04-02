@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
         "projectName": "ShoppingCartApp.Android",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\ShoppingCartApp.Android.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj"
               }
             }
           }
@@ -52,24 +52,24 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.5.1, )"
+              "version": "[1.5.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.5.0.495, )"
+              "version": "[4.5.0.530, )"
             }
           }
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "projectName": "ShoppingCartApp",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -116,11 +116,11 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.5.1, )"
+              "version": "[1.5.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.5.0.495, )"
+              "version": "[4.5.0.530, )"
             }
           },
           "imports": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xla5dr5OwNGeOx+HHqilzj0bTG/co5ZF+fF64k/3FI8kCCuGjzvOGr7aUDA8muSRdLqZjCkYpXF7VGSJIC4VkQ==",
+  "dgSpecHash": "X553AALhdawNW8SzJZ4tbLwYPR6FX5uyDaP9xl//8Ksew+yVfGUcAHCl5oIAQYCmIMcc/x4JwGvDKeNjeePaTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCartApp.UWP\\ShoppingCartApp.UWP.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Shopping-Cart-App\\ShoppingCartApp\\ShoppingCartApp.UWP\\ShoppingCartApp.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
@@ -104,8 +104,8 @@
     "C:\\Users\\andre\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.530\\xamarin.forms.4.5.0.530.nupkg.sha512"
   ],
   "logs": [
     {

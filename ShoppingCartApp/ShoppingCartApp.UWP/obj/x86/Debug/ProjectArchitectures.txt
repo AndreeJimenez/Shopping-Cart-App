@@ -1,1 +1,1 @@
-C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\ShoppingCartApp.UWP.csproj;x86
+C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\ShoppingCartApp.UWP.csproj;x86

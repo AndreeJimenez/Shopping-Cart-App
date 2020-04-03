@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=94fe5686-34a6-4112-8563-fe493a3ebecb</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>670E7453599B76B58927E48C36A2B0944EA6080AF610CBE2A219B29C66775591</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c16d148d-1061-453d-bbb2-a75f360b6556_1.0.0.0_x86__2f0qscb0kcp6m</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c16d148d-1061-453d-bbb2-a75f360b6556_2f0qscb0kcp6m!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-27T03:43:16.709</Modified>
+      <Modified>2020-04-02T05:55:10.181</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\ShoppingCartApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\ShoppingCartApp.UWP.exe">
       <PackagePath>entrypoint\ShoppingCartApp.UWP.exe</PackagePath>
-      <Modified>2020-03-27T03:43:15.229</Modified>
+      <Modified>2020-04-02T05:55:07.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\bouncycastle.netcore\1.8.3\lib\netstandard2.0\BouncyCastle.Crypto.dll">
       <PackagePath>BouncyCastle.Crypto.dll</PackagePath>
@@ -90,29 +90,29 @@
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2016-11-30T08:58:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.essentials\1.5.1\lib\uap10.0.16299\Xamarin.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.essentials\1.5.2\lib\uap10.0.16299\Xamarin.Essentials.dll">
       <PackagePath>Xamarin.Essentials.dll</PackagePath>
-      <Modified>2020-03-06T04:55:04.000</Modified>
+      <Modified>2020-03-27T23:02:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.495\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
-      <Modified>2020-03-25T05:32:04.000</Modified>
+      <Modified>2020-03-31T06:57:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.495\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
       <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
-      <Modified>2020-03-25T05:32:06.000</Modified>
+      <Modified>2020-03-31T06:57:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.495\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
       <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
-      <Modified>2020-03-25T05:32:06.000</Modified>
+      <Modified>2020-03-31T06:57:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.495\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
-      <Modified>2020-03-25T05:31:54.000</Modified>
+      <Modified>2020-03-31T06:57:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp\bin\Debug\netstandard2.0\ShoppingCartApp.dll">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp\bin\Debug\netstandard2.0\ShoppingCartApp.dll">
       <PackagePath>ShoppingCartApp.dll</PackagePath>
-      <Modified>2020-03-27T06:46:54.770</Modified>
+      <Modified>2020-04-02T05:55:00.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -122,160 +122,160 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-19T00:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.495\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\xamarin.forms\4.5.0.530\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
-      <Modified>2020-03-25T05:31:52.000</Modified>
+      <Modified>2020-03-31T06:57:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.964</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.972</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.976</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.978</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.983</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.984</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.988</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.990</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:05.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:06.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:06.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:06.007</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-03-26T16:03:06.009</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-03-26T16:03:06.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\ShoppingCartApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\ShoppingCartApp.UWP.xr.xml">
       <PackagePath>ShoppingCartApp.UWP.xr.xml</PackagePath>
       <Modified>2020-03-26T17:05:44.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-03-27T03:43:15.054</Modified>
+      <Modified>2020-04-02T05:55:07.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-03-27T03:43:15.054</Modified>
+      <Modified>2020-04-02T05:55:07.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -289,13 +289,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2019-12-12T08:48:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-03-26T18:01:06.520</Modified>
+      <Modified>2020-04-02T05:55:08.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\ShoppingCartApp\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\Core\ShoppingCartApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Shopping-Cart-App\ShoppingCartApp\ShoppingCartApp.UWP\bin\x86\Debug\Core\ShoppingCartApp.UWP.exe">
       <PackagePath>ShoppingCartApp.UWP.exe</PackagePath>
-      <Modified>2020-03-27T03:43:16.703</Modified>
+      <Modified>2020-04-02T05:55:10.158</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

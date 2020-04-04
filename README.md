@@ -1,10 +1,17 @@
 # Shopping-Cart-App
-Xamarin App 
 
 <h3>Technologies Used</h3>
 
+* Xamarin.Forms
 * C#
-* API
+* Mobile
+* Android
 
 
-Based on MVVM
+Based on MVVM architectural pattern.
+
+
+## Preview
+
+
+<img src="images/ShoppingCartAppPreview.png" />
